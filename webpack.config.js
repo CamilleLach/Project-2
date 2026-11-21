@@ -4,7 +4,7 @@ const path = require('path');
 
 module.exports = {
     entry: {
-        app: './client/maker.jsx',
+        app: './client/puzzle.jsx',
         login: './client/login.jsx',
     },
     mode: 'production',
